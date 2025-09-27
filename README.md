@@ -186,4 +186,4 @@ $ zphisher
   </tr>
 <table>
 
-<!-- // -->
+<!-- // -->.github/misc/logo.png
